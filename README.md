@@ -34,4 +34,4 @@ npm run prebuild
 
 ## License
 
-MIT. Copyright (c) [Feross Aboukhadijeh](http://feross.org).
+MIT.
