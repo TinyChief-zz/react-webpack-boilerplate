@@ -1,4 +1,4 @@
-# react-webpack-boilerplate
+# (EXPERIMENT FEATURES) react-webpack-boilerplate
 
 ## React template for all of a kind apps.
 <p float="left">
