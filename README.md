@@ -1,6 +1,6 @@
 # react-webpack-boilerplate
 
-#### An React template for all of a kind apps.
+#### React template for all of a kind apps.
 <p float="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" height="100">
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height="100">
